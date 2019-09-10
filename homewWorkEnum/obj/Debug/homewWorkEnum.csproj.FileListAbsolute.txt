@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\bin\Debug\homewWorkEnum.exe.config
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\bin\Debug\homewWorkEnum.exe
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\bin\Debug\homewWorkEnum.pdb
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\obj\Debug\homewWorkEnum.csprojAssemblyReference.cache
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\obj\Debug\homewWorkEnum.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\obj\Debug\homewWorkEnum.exe
+C:\Users\home\source\repos\homewWorkEnum\homewWorkEnum\obj\Debug\homewWorkEnum.pdb
